@@ -1,4 +1,4 @@
-# device-thwc-ufi001c
+# device-yiming-uz801v3
 
 Clone this repo to your `$(pmbootstrap config aports)/device/testing/`
 
